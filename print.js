@@ -17,6 +17,7 @@ function showData() {
   <td>${element.Pname}</td>
   <td>${element.Pdate}</td>
   <td>${element.Pproblem}</td>
+  <td>${element.Pamount}</td>
   </tr>`;
     html += dom;
   });
