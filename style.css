@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav h1{
+    text-align: center;
+}
+nav h2{
+    text-align: center;
+}
+
+nav h3{
+    text-align: center;
+}
+
+.btn-secondary {
+margin: auto;}
+
+.Warn{
+    color: red;
+}
+.delete{
+    color: red;
+}
